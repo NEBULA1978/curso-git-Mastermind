@@ -59,6 +59,9 @@ const loadAdds = () => {
 }
 
 const affiliateRedirect = () => {
+
+// Video pull request
+
   // resolver el bug
 }
 
